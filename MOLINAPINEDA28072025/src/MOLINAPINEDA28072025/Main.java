@@ -17,7 +17,7 @@ public class Main {
     public static float estatura = 1.70f; //Estatura en metros
     public static float peso = 176.8f; //Peso en Libras
     public static char genero = 'M';
-    public static String  estado_familiar= "No se";
+    public static String  estado_familiar= "Soltero";
     public static double salario_mensual = 1600.75;
     
     
